@@ -6,5 +6,6 @@ public class Main {
         System.out.println("new change");
         Tree.getClassType();
         //release
+        //first commit after release
     }
 }
