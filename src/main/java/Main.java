@@ -4,6 +4,7 @@ public class Main {
         Car car = new Car(240, "Toyota", "red");
         System.out.println("Car --> "+car.getCarName() +" and color -> " + car.getColor());
         System.out.println("new change");
+        Tree.getClassType();
         // added comment
     }
 }
