@@ -7,6 +7,7 @@ public class Car {
         this.maxSpeed = maxSpeed;
         this.carName = carName;
         this.color = color;
+        // added comment
     }
 
     public void setMaxSpeed(int maxSpeed) {
