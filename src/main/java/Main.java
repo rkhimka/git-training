@@ -5,8 +5,6 @@ public class Main {
         System.out.println("Car --> "+car.getCarName() +" and color -> " + car.getColor());
         System.out.println("new change");
         Tree.getClassType();
-        // added comment
-        //added some invalid code
-        //ad this as well invalid
+        //release
     }
 }
